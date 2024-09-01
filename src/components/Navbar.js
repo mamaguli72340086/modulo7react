@@ -15,7 +15,7 @@ const Navbar = () => {
                     <div><a href='#'>Home</a></div>
                     <div><a href='#'>Product</a></div>
                     <div><a href='{openLoginForm}'>Form</a></div>
-                    Bienvenido<span>{username} | {email}</span>
+                    Bienvenido ....<span>{username} | {email}</span>
                 </div>
             )}
         </nav>
